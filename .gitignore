@@ -1,4 +1,7 @@
-.vs/
-x64/
-*.exe
+#dependancies
+/.vs
+/x64
+
+#output
+/*.exe
 pointer
