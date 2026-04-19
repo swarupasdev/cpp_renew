@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|solutionrelative:log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|solutionrelative:Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Log.h",
-              "DocumentMoniker": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\Log.h",
+              "DocumentMoniker": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.h",
               "RelativeDocumentMoniker": "Log.h",
-              "ToolTip": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\Log.h",
+              "ToolTip": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.h",
               "RelativeToolTip": "Log.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Log.cpp",
-              "DocumentMoniker": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\Log.cpp",
+              "DocumentMoniker": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.cpp",
               "RelativeDocumentMoniker": "Log.cpp",
-              "ToolTip": "C:\\Users\\San\\Documents\\Programming_and_algorithm\\c\u002B\u002B_\\project1\\Project1\\Log.cpp",
+              "ToolTip": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.cpp",
               "RelativeToolTip": "Log.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -25,8 +25,8 @@ int main()
 {
 	//int result = multiply(3, 2); // it will call the multiply fynction with these 2 parameteres and store its								return value inside the 'result' variable which is a integer type
 	
-	initLog();
-	Log("hello world");
+	//initLog();
+	//Log("hello world");
 	//cout << "Result of multiplication: " << result << endl;
 	/*
 	multiplyfurther(8, 9); //called void function here

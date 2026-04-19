@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|solutionrelative:log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B00BA39D-CF2B-453F-BAD5-2F777AE231AC}|Project1.vcxproj|solutionrelative:Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-10T06:30:13.914Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -59,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Log.cpp",
               "DocumentMoniker": "C:\\Users\\San\\Documents\\progsandalgs\\c\u002B\u002B_\\Project1\\Log.cpp",
               "RelativeDocumentMoniker": "Log.cpp",
@@ -67,7 +63,8 @@
               "RelativeToolTip": "Log.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-11T03:41:14.755Z"
+              "WhenOpened": "2025-12-11T03:41:14.755Z",
+              "EditorCaption": ""
             }
           ]
         }
